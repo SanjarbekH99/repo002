@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+.logo{
+    text-decoration: none;
+}
+
+nav{
+    padding:10px 80px;
+}
+
+.nav{
+    display:inline-block;
+    list-style: none;
+}
+
+.imglogo{
+    display: inline;
+    border:1px solid blue;
+    border-radius: 50% 60% 60% 50%;
+}
+
+.nav-item{
+    display:inline;
+    margin:5px;
+}
+
+/*header*/
+.left{
+    display:inline-block;
+    width:50%;
+}
+
+.right{
+    display:inline-block;
+    width:49%;
+}
+
+.right>img{
+    width:100%;
+}
+
+.p{
+    color: #7D7987;
+
+}

@@ -1,0 +1,100 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container{
+    padding: 0 80px;
+}
+
+.navbar{
+    background:#E5E5E5;
+
+}
+
+.logo{
+    font-size: 15px;
+    font-weight:700 ;
+    text-decoration: none;
+    color:black
+}
+
+ul, li{
+    display:inline;
+    text-align: center;
+}
+
+li a{
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    color:rgba(57, 61, 68, 0.20);
+}
+
+.home{
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    color:black;
+}
+
+.box{
+    display:inline-block;
+    width:50%;
+    text-align:center
+}
+
+.t{
+    display:inline;
+    border:1px solid blue;
+    border-radius:30%;
+    background-color: blue;
+}
+
+.lite{
+    color:#7D7987;
+    font-size: 25px;
+}
+
+.right{
+    text-align: center;
+}
+.img{
+    display: inline-block;
+    width:49%
+}
+
+.img>img{
+    width:100%
+}
+
+
+.consult{
+    color:cornsilk;
+    text-decoration: none;
+    border:1px solid blue ;
+    font-size: 25px;
+    background: blue;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.satr{
+    text-align: center;
+}
+
+.card{
+    display:inline-block;
+    text-align: center;
+    border:1px solid rgb(107, 154, 216);
+    border-radius: 8px;
+    width:30%;
+    background-color:#FFFFFF
+}
+
+.learn{
+    text-align: center;
+    border:1.4px solid #458FF6;
+    border-radius:55px;
+}
